@@ -1,6 +1,6 @@
 {
   "name": "World",
-  "short_name": "WOrld",
+  "short_name": "World",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
